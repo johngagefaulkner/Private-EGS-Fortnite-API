@@ -1,0 +1,1188 @@
+[
+  {
+    "name": "MissionAlert_Storm_FireActive_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:16",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_sr",
+          "quantity": 70
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 190
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 108
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:17",
+      "items": [
+        {
+          "itemType": "Schematic:sid_pistol_autoheavy_vt_sr_ore_t01",
+          "quantity": 1
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 200
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 112
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:25",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t04",
+          "quantity": 22
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 280
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 130
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:19",
+      "items": [
+        {
+          "itemType": "Schematic:sid_edged_sword_medium_vr_ore_t01",
+          "attributes": {
+            "Alteration": {
+              "LootTierGroup": "AlterationTG.Melee.VR",
+              "Tier": 0
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "itemType": "Schematic:sid_ceiling_electric_aoe_vr_t01",
+          "attributes": {
+            "Alteration": {
+              "LootTierGroup": "AlterationTG.Trap.VR",
+              "Tier": 0
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 220
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 118
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:22",
+      "items": [
+        {
+          "itemType": "Defender:did_defenderassault_basic_m_vr_t01",
+          "attributes": {
+            "Alteration": {
+              "LootTierGroup": "AlterationTG.Defender.Assault.VR",
+              "Tier": 0
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 250
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 124
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:20",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_generic",
+          "quantity": 150
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 230
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 120
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:18",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t01",
+          "quantity": 74
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 210
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 115
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:21",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_sr",
+          "quantity": 95
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 240
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 122
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:24",
+      "items": [
+        {
+          "itemType": "Worker:managerengineer_r_t01",
+          "quantity": 1
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 270
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 128
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:23",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_vr",
+          "quantity": 125
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 260
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 126
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:23",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t02",
+          "quantity": 62
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 260
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 126
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:21",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_generic",
+          "quantity": 145
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 240
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 122
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:19",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t04",
+          "quantity": 12
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 220
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 118
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:22",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t03",
+          "quantity": 38
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 250
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 124
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:17",
+      "items": [
+        {
+          "itemType": "Schematic:sid_pistol_bolt_sr_ore_t01",
+          "attributes": {
+            "Alteration": {
+              "LootTierGroup": "AlterationTG.Ranged.SR",
+              "Tier": 0
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 200
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 112
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:20",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_vr",
+          "quantity": 110
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 230
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 120
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:16",
+      "items": [
+        {
+          "itemType": "Schematic:sid_shotgun_break_scavenger_sr_ore_t01",
+          "attributes": {
+            "Alteration": {
+              "LootTierGroup": "AlterationTG.Ranged.SR",
+              "Tier": 0
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 190
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 108
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:18",
+      "items": [
+        {
+          "itemType": "Schematic:sid_assault_burst_vr_ore_t01",
+          "attributes": {
+            "Alteration": {
+              "LootTierGroup": "AlterationTG.Ranged.VR",
+              "Tier": 0
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "itemType": "Schematic:sid_edged_axe_light_vr_ore_t01",
+          "attributes": {
+            "Alteration": {
+              "LootTierGroup": "AlterationTG.Melee.VR",
+              "Tier": 0
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 210
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 115
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:25",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t02",
+          "quantity": 71
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 280
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 130
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:24",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_sr",
+          "quantity": 105
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 270
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 128
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_FireActive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_ActiveFire:25",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t03",
+          "quantity": 46
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 280
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 130
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_IcePassive_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveWater:17",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_sr",
+          "quantity": 75
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_water",
+          "quantity": 200
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_IcePassive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveWater:25",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_sr",
+          "quantity": 110
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_water",
+          "quantity": 280
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_IcePassive_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveWater:19",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_vr",
+          "quantity": 105
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_water",
+          "quantity": 220
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_IcePassive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveWater:23",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_vr",
+          "quantity": 125
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_water",
+          "quantity": 260
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_IcePassive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveWater:20",
+      "items": [
+        {
+          "itemType": "Worker:workerbasic_sr_t01",
+          "quantity": 1
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_water",
+          "quantity": 230
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_IcePassive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveWater:21",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_generic",
+          "quantity": 145
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_water",
+          "quantity": 240
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_LightningPassive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveNature:24",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_vr",
+          "quantity": 130
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_nature",
+          "quantity": 270
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_LightningPassive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveNature:22",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t01",
+          "quantity": 118
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_nature",
+          "quantity": 250
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_LightningPassive_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveNature:18",
+      "items": [
+        {
+          "itemType": "Schematic:sid_blunt_club_light_sr_ore_t01",
+          "attributes": {
+            "Alteration": {
+              "LootTierGroup": "AlterationTG.Melee.SR",
+              "Tier": 0
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_nature",
+          "quantity": 210
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_LightningPassive_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveNature:16",
+      "items": [
+        {
+          "itemType": "Schematic:sid_assault_scavenger_sr_ore_t01",
+          "attributes": {
+            "Alteration": {
+              "LootTierGroup": "AlterationTG.Ranged.SR",
+              "Tier": 0
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_nature",
+          "quantity": 190
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_LightningPassive_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveNature:19",
+      "items": [
+        {
+          "itemType": "Schematic:sid_floor_freeze_vr_t01",
+          "attributes": {
+            "Alteration": {
+              "LootTierGroup": "AlterationTG.Trap.Freeze.VR",
+              "Tier": 0
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_nature",
+          "quantity": 220
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_LightningPassive_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveNature:23",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_vr",
+          "quantity": 125
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_nature",
+          "quantity": 260
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_MinibossPassive_05",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveMiniboss:21",
+      "items": [
+        {
+          "itemType": "Schematic:sid_floor_freeze_vr_t01",
+          "attributes": {
+            "Alteration": {
+              "LootTierGroup": "AlterationTG.Trap.Freeze.VR",
+              "Tier": 0
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "itemType": "Schematic:sid_ceiling_gas_vr_t01",
+          "attributes": {
+            "Alteration": {
+              "LootTierGroup": "AlterationTG.Trap.VR",
+              "Tier": 0
+            }
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_MinibossPassive_04",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveMiniboss:17",
+      "items": [
+        {
+          "itemType": "AccountResource:voucher_basicpack",
+          "quantity": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_MinibossPassive_05",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveMiniboss:20",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t03",
+          "quantity": 10
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_MinibossPassive_05",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveMiniboss:22",
+      "items": [
+        {
+          "itemType": "Worker:workerbasic_sr_t01",
+          "quantity": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_MinibossPassive_04",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveMiniboss:18",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t01",
+          "quantity": 36
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_MinibossPassive_05",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveMiniboss:25",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t04",
+          "quantity": 18
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_Storm_MinibossPassive_05",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Seasonal_PassiveMiniboss:24",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_generic",
+          "quantity": 140
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:19",
+      "items": [
+        {
+          "itemType": "AccountResource:schematicxp",
+          "quantity": 99000
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 220
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 118
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:26",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t04",
+          "quantity": 38
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 290
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 132
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:23",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_generic",
+          "quantity": 297
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 260
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 126
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:24",
+      "items": [
+        {
+          "itemType": "AccountResource:heroxp",
+          "quantity": 189200
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 270
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 128
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:16",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t03",
+          "quantity": 24
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 190
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 108
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:18",
+      "items": [
+        {
+          "itemType": "AccountResource:personnelxp",
+          "quantity": 132000
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 210
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 115
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:21",
+      "items": [
+        {
+          "itemType": "AccountResource:personnelxp",
+          "quantity": 191400
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 240
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 122
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:25",
+      "items": [
+        {
+          "itemType": "AccountResource:schematicxp",
+          "quantity": 215600
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 280
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 130
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:22",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_vr",
+          "quantity": 246
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 250
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 124
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:20",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t03",
+          "quantity": 41
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 230
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 120
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:17",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_vr",
+          "quantity": 194
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 200
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 112
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:23",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_sr",
+          "quantity": 205
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 260
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 126
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:21",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t02",
+          "quantity": 63
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 240
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 122
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:25",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t01",
+          "quantity": 225
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 280
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 130
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:24",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_generic",
+          "quantity": 348
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 270
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 128
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:26",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t03",
+          "quantity": 70
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 290
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 132
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:22",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_c_t03",
+          "quantity": 49
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 250
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 124
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_02",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:18",
+      "items": [
+        {
+          "itemType": "Defender:did_defenderassault_basic_m_sr_t01",
+          "attributes": {
+            "Alteration": {
+              "LootTierGroup": "AlterationTG.Defender.Assault.SR",
+              "Tier": 0
+            }
+          },
+          "quantity": 1
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 210
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 115
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:26",
+      "items": [
+        {
+          "itemType": "AccountResource:heroxp",
+          "quantity": 273680
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 290
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 132
+        }
+      ]
+    }
+  },
+  {
+    "name": "MissionAlert_MegaAlertCategory_Fire_03",
+    "missionAlertRewards": {
+      "tierGroupName": "MissionAlert_Megalert_4p_Fire:26",
+      "items": [
+        {
+          "itemType": "AccountResource:reagent_alteration_upgrade_vr",
+          "quantity": 300
+        },
+        {
+          "itemType": "AccountResource:reagent_alteration_ele_fire",
+          "quantity": 290
+        },
+        {
+          "itemType": "AccountResource:campaign_event_currency",
+          "quantity": 132
+        }
+      ]
+    }
+  }
+]
